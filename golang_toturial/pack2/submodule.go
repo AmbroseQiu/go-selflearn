@@ -1,4 +1,4 @@
-package package_module_name
+package pack2
 
 import "fmt"
 

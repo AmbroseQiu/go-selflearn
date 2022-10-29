@@ -1,3 +1,3 @@
-module note
+module example.com/hello-world
 
 go 1.19

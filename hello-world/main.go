@@ -1,6 +1,6 @@
 package main
 
-import "note/note"
+import "example.com/hello-world/note"
 
 func main() {
 	note.SayHelloWorld()

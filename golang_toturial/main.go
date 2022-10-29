@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
-	subpack2 "package_module_name/another_submodule_name"
-	subpack "package_module_name/submodule_name"
+
+	subpack2 "example.com/golang_tutorial/pack1"
+	subpack "example.com/golang_tutorial/pack2"
 )
 
 func init() {
